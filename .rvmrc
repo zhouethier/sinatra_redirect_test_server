@@ -1,0 +1,3 @@
+rvm use 1.9.3-p0 --default
+rvm --create use default@sinatra_redirect_test_server
+echo "Change to sinatra_redirect_test_server directory settings"
